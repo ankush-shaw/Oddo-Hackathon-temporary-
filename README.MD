@@ -10,7 +10,7 @@ Built as a Single Page Application (SPA) using Vanilla JavaScript, HTML5, and CS
 
 ## 🔗 Repo Link
 
-**[https://github.com/arpanbasak90-cyber/odoo-adamas-hackathon-2026-](https://github.com/arpanbasak90-cyber/odoo-adamas-hackathon-2026-)
+**[https://github.com/ankush-shaw/Oddo-Hackathon-temporary-](https://github.com/ankush-shaw/Oddo-Hackathon-temporary-)
 
 ## 🔗Demo Video Link
 
