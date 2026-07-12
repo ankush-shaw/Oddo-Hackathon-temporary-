@@ -1,4 +1,4 @@
-# NextGen HRMS (Human Resource Management System)
+#  AssetFlow Enterprise Asset & Resource Management System
 
 A modern, responsive, and lightweight Human Resource Management System (HRMS) designed to streamline employee tracking, attendance, leave management, and payroll. 
 
