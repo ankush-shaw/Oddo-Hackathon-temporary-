@@ -6,7 +6,7 @@ Built as a Single Page Application (SPA) using Vanilla JavaScript, HTML5, and CS
 
 ## 🔗 Live Link
 
-**[https://odoo-adamas-hackathon-2026.vercel.app/](https://odoo-adamas-hackathon-2026.vercel.app/)**
+**[https://ankush-shaw.github.io/Oddo-Hackathon-temporary-/#/login/](https://ankush-shaw.github.io/Oddo-Hackathon-temporary-/#/login/)**
 
 ## 🔗 Repo Link
 
